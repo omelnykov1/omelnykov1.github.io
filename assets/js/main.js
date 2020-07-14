@@ -39,10 +39,6 @@
 			alignment: 'right',
 			hideDelay: 350
 		});
-
-	// Nav.
-
-		// Title Bar.
 	
 		// Panel.
 			$(
