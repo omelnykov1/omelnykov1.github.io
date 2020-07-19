@@ -9,9 +9,8 @@
 		var	$this = $(this);
 			$a = $this.find('a'),
 			b = [];
-			
-		$a.each(function() {
 
+		$a.each(function() {
 			var	$this = $(this),
 				indent = Math.max(0, $this.parents('li').length - 1),
 				href = $this.attr('href'),
