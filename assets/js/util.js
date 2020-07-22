@@ -5,7 +5,6 @@
 	 * @return {jQuery} jQuery object.
 	 */
 	$.fn.navList = function() {
-
 		var	$this = $(this);
 			$a = $this.find('a'),
 			b = [];
@@ -33,7 +32,6 @@
 		return b.join('');
 
 	};
-
 	/**
 	 * Panel-ify an element.
 	 * @param {object} userConfig User config.
