@@ -38,7 +38,6 @@
 	 * @return {jQuery} 
 	 */
 	$.fn.panel = function(userConfig) {
-
 		// No elements?
 			if (this.length == 0)
 				return $this;
