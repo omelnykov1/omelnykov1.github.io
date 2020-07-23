@@ -35,7 +35,7 @@
 	/**
 	 * Panel-ify an element.
 	 * @param {object} userConfig User config.
-	 * @return {jQuery} jQuery object.
+	 * @return {jQuery} 
 	 */
 	$.fn.panel = function(userConfig) {
 
